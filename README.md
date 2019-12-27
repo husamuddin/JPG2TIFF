@@ -5,5 +5,5 @@ $ docker run
     --rm
     -it
     -v $PWD:/data almadaq/converter
-    convert panorama.jpg
+    convert <image name here>
 ```
